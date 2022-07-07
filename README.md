@@ -1,10 +1,6 @@
-// Java program to demonstrate encapsulation
-
-Encapsulation in java
-
+// Java program encapsulation
 class Encapsulate {
-
-    private String Name;
+     private String Name;
     private int Roll;
     private int Age;
  
