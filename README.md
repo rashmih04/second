@@ -1,6 +1,7 @@
 // Java program to demonstrate encapsulation
 
 class Encapsulate {
+    
     private String Name;
     private int Roll;
     private int Age;
@@ -42,6 +43,7 @@ class Encapsulate {
 }
  
 public class TestEncapsulation {
+
 
     public static void main(String[] args)
     {
