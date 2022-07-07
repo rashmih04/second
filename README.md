@@ -1,5 +1,7 @@
 // Java program to demonstrate encapsulation
 
+Encapsulation in java
+
 class Encapsulate {
 
     private String Name;
@@ -43,9 +45,7 @@ class Encapsulate {
 }
  
 public class TestEncapsulation {
-
-
-    public static void main(String[] args)
+ public static void main(String[] args)
     {
         Encapsulate obj = new Encapsulate();
  
