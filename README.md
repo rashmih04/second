@@ -1,8 +1,6 @@
 // Java program to demonstrate encapsulation
+
 class Encapsulate {
-    // private variables declared
-    // these can only be accessed by
-    // public methods of class
     private String Name;
     private int Roll;
     private int Age;
@@ -44,6 +42,7 @@ class Encapsulate {
 }
  
 public class TestEncapsulation {
+
     public static void main(String[] args)
     {
         Encapsulate obj = new Encapsulate();
